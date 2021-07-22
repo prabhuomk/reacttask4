@@ -29,7 +29,7 @@ body {
   justify-content: flex-start;
 }
 .card {
-  background-color: rgb(13, 233, 97);
+  background-color: greenyellow;
   margin: 10px;
   width: 200px;
   height: 200px;
